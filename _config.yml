@@ -1,7 +1,6 @@
 title: 끝없이 공부하는 퍼블리셔, ochor! 
 subtitle: 🤩 ochor 블로그에 오신 것을 환영합니다 🤩
 description: >- # this means to ignore newlines until "baseurl:"
-  공부를 하면서 기록장 용으로 만든 깃헙 블로그입니다.
 
 url: "https://ochor.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
