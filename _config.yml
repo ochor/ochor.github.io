@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   공부를 하면서 기록장 용으로 만든 깃헙 블로그입니다.
 
 url: "https://ochor.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "/ochor" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
